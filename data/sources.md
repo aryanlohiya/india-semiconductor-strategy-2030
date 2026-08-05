@@ -19,3 +19,12 @@
 - Market values are reported in USD billions.
 - Data is published by the Semiconductor Industry Association (SIA).
 - Annual sales figures are compiled using World Semiconductor Trade Statistics (WSTS) data.
+---
+
+## Dataset 2: Global Foundry Market Share (2024)
+
+**Source Organization:** TrendForce
+
+Official Report
+
+https://www.trendforce.com/news/
